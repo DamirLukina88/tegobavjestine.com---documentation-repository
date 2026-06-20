@@ -4,6 +4,12 @@
 
 Welcome to the central documentation and design repository for **TEGOBA VJEŠTINE / SKILL ISSUE**!
 
+## 🎮 Play Now
+Experience the game yourself at **[tegobavjestine.com](https://tegobavjestine.com/)** or scan the QR code below:
+
+<p align="center">
+  <img src="visuals/assets/qr_code.png" alt="Play Tegoba Vještine" width="150" />
+</p>
 ## 🌟 The Project Vision
 Tegoba Vještine / Skill Issue is not just a game; it is an innovative educational platform masquerading as an engaging arcade classic (Snake). Developed by Damir Lukina at Tehnička škola Ruđera Boškovića (TŠRB), the project aims to transform the tedious task of studying into a dynamic, addictive experience where every correct answer propels the player forward.
 
