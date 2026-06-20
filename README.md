@@ -1,14 +1,18 @@
-# TEGOBA VJESTINE - Sponsorship Pitch & Documentation
+# TEGOBA VJESTINE - Documentation & Project Overview
 
-Welcome to the central documentation, design, and sponsorship repository for **TEGOBA VJESTINE**!
+Welcome to the central documentation and design repository for **TEGOBA VJESTINE**!
 
 ## 🌟 The Project Vision
 Tegoba Vještine is not just a game; it is an innovative educational platform masquerading as an engaging arcade classic (Snake). Developed by Damir Lukina at Tehnička škola Ruđera Boškovića (TŠRB), the project aims to transform the tedious task of studying into a dynamic, addictive experience where every correct answer propels the player forward.
 
-## 🤝 Sponsorship Opportunities
-We are actively seeking sponsorships from technology leaders like **Cloudflare, Google (Antigravity team), and Microsoft** who share our vision of empowering education through technology.
+<p align="center">
+  <img src="visuals/mockups/original (1).png" alt="Gameplay Interface" width="400" />
+</p>
 
-**Why sponsor Tegoba Vještine?**
+## 🤝 Partnership Opportunities
+We are actively seeking partnerships with technology leaders like **Cloudflare, Google (Antigravity team), and Microsoft** who share our vision of empowering education through technology.
+
+**Why support Tegoba Vještine?**
 * **Educational Impact:** Directly support a project that leverages gamification to make learning accessible and engaging for students.
 * **Showcase Technology:** The platform is a perfect use-case for showcasing edge computing (Cloudflare), advanced AI integration (Google Antigravity), and scalable cloud infrastructure (Microsoft Azure).
 * **Community Engagement:** Connect with the next generation of developers and students by supporting an educational initiative.
@@ -26,8 +30,8 @@ All detailed documentation has been meticulously organized in our GitHub Wiki.
 
 ## 🎨 Visual Assets
 Our design resources are stored in the `visuals/` directory:
-* `visuals/assets/` - Project logos, branding, and character art.
-* `visuals/mockups/` - UI/UX designs.
+* `visuals/assets/` - Project logos, branding, QR code, and character art.
+* `visuals/mockups/` - UI/UX designs including gameplay screens.
 * `visuals/diagrams/` - System architecture and flow diagrams.
 
 ---
