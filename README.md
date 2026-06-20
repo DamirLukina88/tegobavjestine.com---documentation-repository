@@ -10,12 +10,12 @@ Tegoba Vještine is not just a game; it is an innovative educational platform ma
 </p>
 
 ## 🤝 Partnership Opportunities
-We are actively seeking partnerships with technology leaders like **Cloudflare, Google (Antigravity team), and Microsoft** who share our vision of empowering education through technology.
+We are actively seeking partnerships with forward-thinking organizations, tech companies, and educational institutions who share our vision of empowering learning through technology.
 
 **Why support Tegoba Vještine?**
-* **Educational Impact:** Directly support a project that leverages gamification to make learning accessible and engaging for students.
-* **Showcase Technology:** The platform is a perfect use-case for showcasing edge computing (Cloudflare), advanced AI integration (Google Antigravity), and scalable cloud infrastructure (Microsoft Azure).
-* **Community Engagement:** Connect with the next generation of developers and students by supporting an educational initiative.
+* **Educational Impact:** Directly support an initiative that leverages gamification to make studying accessible, effective, and highly engaging for students.
+* **Showcase Innovation:** The platform provides a perfect use-case for demonstrating edge computing, advanced AI integrations, or scalable cloud infrastructures in a real-world educational setting.
+* **Community Engagement:** Connect with the next generation of developers, educators, and students by backing an open, impact-driven project.
 
 ## 📚 Project Wiki
 All detailed documentation has been meticulously organized in our GitHub Wiki.
