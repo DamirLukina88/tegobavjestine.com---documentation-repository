@@ -14,8 +14,6 @@ Experience the game yourself at **<a href="https://tegobavjestine.com/" target="
 ## 🌟 The Project Vision
 Tegoba Vještine / Skill Issue is not just a game; it is an innovative educational platform masquerading as an engaging arcade classic (Snake). Developed by Damir Lukina at Tehnička škola Ruđera Boškovića (TŠRB), the project aims to transform the tedious task of studying into a dynamic, addictive experience where every correct answer propels the player forward.
 
-<br><br>
-
 <p align="center">
   <img src="visuals/mockups/original (1).png" alt="Gameplay Interface" width="400" />
 </p>
