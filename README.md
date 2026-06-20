@@ -28,11 +28,6 @@ All detailed documentation has been meticulously organized in our GitHub Wiki.
 * **[Technical Architecture & APIs](https://github.com/DamirLukina88/tegobavjestine.com---documentation-repository/wiki/Technical-Architecture)** - Technology stack, API endpoints, and infrastructure.
 * **[Lore & Story](https://github.com/DamirLukina88/tegobavjestine.com---documentation-repository/wiki/Lore)** - The narrative driving the experience.
 
-## 🎨 Visual Assets
-Our design resources are stored in the `visuals/` directory:
-* `visuals/assets/` - Project logos, branding, QR code, and character art.
-* `visuals/mockups/` - UI/UX designs including gameplay screens.
-* `visuals/diagrams/` - System architecture and flow diagrams.
 
 ---
 *Maintained by Damir Lukina.*
