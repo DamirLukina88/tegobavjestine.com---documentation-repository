@@ -5,7 +5,7 @@
 Welcome to the central documentation and design repository for **TEGOBA VJEŠTINE / SKILL ISSUE**!
 
 ## 🎮 Play Now
-Experience the game yourself at **[tegobavjestine.com](https://tegobavjestine.com/)** or scan the QR code below:
+Experience the game yourself at **<a href="https://tegobavjestine.com/" target="_blank" rel="noopener noreferrer">tegobavjestine.com</a>** or scan the QR code below:
 
 <p align="center">
   <img src="visuals/assets/tegoba-vjestine-qr.png" alt="Play Tegoba Vještine / Skill Issue" width="150" />
